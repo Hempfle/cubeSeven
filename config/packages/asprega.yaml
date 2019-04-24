@@ -1,0 +1,2 @@
+asprega_breadcrumb:
+    template: '@AndreaSpregaBreadcrumb/breadcrumb.html.twig'
